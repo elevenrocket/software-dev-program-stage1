@@ -303,17 +303,17 @@ Update Date **: Jul 3, 2023**
     - [ ] **Step5: Understand better**
       - [ ] After adding, editing, deleting refresh the page
       - [ ] Data will be removed because it was not saved anywhere.
-  - [ ] **Exercise 5: Saving data to local storage**
-    - [ ] Understand what is local storage
-    - [ ] Understand what is session storage
-    - [ ] From the previous application
-    - [ ] Step 1: Add data
-      - [ ] During the addition, after updating the array add it to the localstorage students array
-      - [ ] After refreshing the page, the data should fetch from localstorage and list the table
-    - [ ] Step 2: Edit data
-      - [ ] Edit data should update the data in students array and localstorage list
-      - [ ] Refresh and verify the data is up to date
-    - [ ] Step 3: Delete data
+- [ ] **Exercise 5: Saving data to local storage**
+  - [ ] Understand what is local storage
+  - [ ] Understand what is session storage
+  - [ ] From the previous application
+  - [ ] Step 1: Add data
+    - [ ] During the addition, after updating the array add it to the localstorage students array
+    - [ ] After refreshing the page, the data should fetch from localstorage and list the table
+  - [ ] Step 2: Edit data
+    - [ ] Edit data should update the data in students array and localstorage list
+    - [ ] Refresh and verify the data is up to date
+  - [ ] Step 3: Delete data
 
 ## Web App and API
 - [ ] What is API

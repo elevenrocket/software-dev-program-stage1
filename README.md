@@ -132,16 +132,16 @@ Update Date **: Jul 3, 2023**
   - [ ] **Exercise 1** : [Develop this page](https://drive.google.com/file/d/1UpjZZJjDNBISClk0tU_N7-EiHk7YxFBc/view?usp=sharing)
   - [ ] **Exercise 2:** [Develop this page](https://drive.google.com/file/d/1MHwgdZUwS1CIYsBjjmTCTcmUqBE85MWI/view?usp=drive_link) using grid or flexbox
 
-  **- [ ] Bootstrap CSS**
-    - [ ] Understand what is bootstrap
-    - [ ] Understand its grid system
-    - [ ] Understand the components and inbuilt styles available
-    - [ ] Understand how to use the bootstrap components
-    - [ ] Understand how to modify/add styles
-    - [ ] Verify the list. [Click here](https://gist.github.com/grsind19/623449c3c2e3887c74877d45f8874072)
-    - [ ] **Exercise 1** : Complete the w3schools
-    - [ ] **Exercise 1** : [Develop this page](https://drive.google.com/file/d/1PNXiNK1M7fTVzgiiz4ho2JIhT0VCKjgh/view?usp=drive_link)
-    - [ ] **Exercise 2:** [Develop this page](https://drive.google.com/file/d/1P8COuYWx1zOeDK4Lcpge8iN-jO9EbiVm/view?usp=drive_link) bootstrap layout
+- [ ] Bootstrap CSS
+  - [ ] Understand what is bootstrap
+  - [ ] Understand its grid system
+  - [ ] Understand the components and inbuilt styles available
+  - [ ] Understand how to use the bootstrap components
+  - [ ] Understand how to modify/add styles
+  - [ ] Verify the list. [Click here](https://gist.github.com/grsind19/623449c3c2e3887c74877d45f8874072)
+  - [ ] **Exercise 1** : Complete the w3schools
+  - [ ] **Exercise 1** : [Develop this page](https://drive.google.com/file/d/1PNXiNK1M7fTVzgiiz4ho2JIhT0VCKjgh/view?usp=drive_link)
+  - [ ] **Exercise 2:** [Develop this page](https://drive.google.com/file/d/1P8COuYWx1zOeDK4Lcpge8iN-jO9EbiVm/view?usp=drive_link) bootstrap layout
 
 ## JavaScript
 - [ ] Introduction to javascript

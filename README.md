@@ -124,7 +124,7 @@ Update Date **: Jul 3, 2023**
     - [ ] Class
     - [ ] Child elements, Pseudoclasses
   - [ ] Verify the list, whether you have covered all the css. [Click here](https://gist.github.com/grsind19/bf4a8515ea3f547ec88fb6e729db2bde)
-  - [ ] **Exercise 1** : [Develop this page](https://nicepage.com/html- [ ]templates/preview/compare-examples-5201773?device=desktop)
+  - [ ] **Exercise 1** : [Develop this page](https://nicepage.com/html-templates/preview/compare-examples-5201773?device=desktop)
   - [ ] **Exercise 2:** [Develop this page](https://drive.google.com/file/d/1MHwgdZUwS1CIYsBjjmTCTcmUqBE85MWI/view?usp=drive_link)
   - [ ] Understand the RWD
     - [ ] Grid

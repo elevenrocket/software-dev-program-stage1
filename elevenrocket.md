@@ -12,9 +12,9 @@ Update Date **: Jul 3, 2023**
 
 ## Prerequisites:
 
-- [ ] Share the details and certificates and aadhar with sathish for onboarding
-- [ ] Understand the rules
-- [ ] Have the proper laptop
+- [x] Share the details and certificates and aadhar with sathish for onboarding
+- [x] Understand the rules
+- [x] Have the proper laptop
 
 ## Setup dev environment
 
